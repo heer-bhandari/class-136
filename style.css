@@ -1,0 +1,18 @@
+#sav{
+    width: 100%;
+}
+body{
+    background-size: cover;
+}
+.footer1{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: black;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 3px solid rosybrown;
+    border-radius: 20px;
+}
